@@ -1,0 +1,339 @@
+[
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1199,
+      "category": "mobile phones",
+      "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6487/6487315ld.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "category": "mobile phones",
+      "imageUrl": "https://scr.wfcdn.de/25940/Samsung-Galaxy-S23-Ultra-1673639126-0-0.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "3",
+      "name": "OnePlus 11R",
+      "price": 450,
+      "category": "mobile phones",
+      "imageUrl": "https://oasis.opstatics.com/content/dam/oasis/page/2023/in/product/11r/11r-red.png",
+      "isInStock": true
+    },
+    {
+      "id": "4",
+      "name": "Xiaomi Redmi Note 12",
+      "price": 299,
+      "category": "mobile phones",
+      "imageUrl": "https://cdn.webshopapp.com/shops/256009/files/427896696/xiaomi-xiaomi-redmi-note-12-pro-plus-5g-8gb-256gb.jpg",
+      "isInStock": false
+    },
+    {
+      "id": "5",
+      "name": "Realme Narzo 60 5G",
+      "price": 325,
+      "category": "mobile phones",
+      "imageUrl": "https://cdn1.smartprix.com/rx-i2KfXqT6S-w1200-h1200/2KfXqT6S.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "6",
+      "name": "Google Pixel 7A",
+      "price": 499,
+      "category": "mobile phones",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.otopFaW-ZFboZd5rp19mLwHaJK?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "7",
+      "name": "Motorola Edge 40",
+      "price": 429,
+      "category": "mobile phones",
+      "imageUrl": "https://media.krefel.be/sys-master/products/9308746285086/1440x1440.51006186_01.webp",
+      "isInStock": false
+    },
+    {
+      "id": "8",
+      "name": "iQOO Z7 5G",
+      "price": 275,
+      "category": "mobile phones",
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.8ZKBU_CEIuuTSq5GZx_6tQHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "9",
+      "name": "Infinix Zero 5G",
+      "price": 219,
+      "category": "mobile phones",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.-x0msUvWWu44NS4ShZkjNAHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "10",
+      "name": "Women's Floral Dress",
+      "price": 45,
+      "category": "clothing",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.t-niqA6rwPpJ1YKhEhc4_QHaJo?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "11", 
+      "name": "Men's Casual Shirt",
+      "price": 30,
+      "category": "clothing",
+      "imageUrl": "https://m.media-amazon.com/images/I/71I-cik1CyL._AC_UL1500_.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "12",
+      "name": "Kid's Summer Dress",
+      "price": 20,
+      "category": "clothing",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB1JsV6RFXXXXblXVXXq6xXFXXXD/Cute-Toddler-Baby-Girls-Summer-Beach-Dress-Kids-Fashion-Short-Sleeve-Floral-Princess-Party-Cotton-Mini.jpg",
+      "isInStock": false
+    },
+    {
+      "id": "13",
+      "name": "Women's Party Wear Gown",
+      "price": 70,
+      "category": "clothing",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2102/5691/products/61_1024x1024_2d556ad6-8367-469c-a4c2-d00643a1959a_1024x1024@2x.jpg?v=1571610068",
+      "isInStock": true
+    },
+    {
+      "id": "14",
+      "name": "Men's Denim Jeans",
+      "price": 35,
+      "category": "clothing",
+      "imageUrl": "https://m.media-amazon.com/images/I/81EfgGgArGL._SY741_.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "15",
+      "name": "Kid's Hoodie",
+      "price": 25,
+      "category": "clothing",
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.GAXf92qrGadBsnYY3ubQaAHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "16",
+      "name": "Men's Kurta Pajama",
+      "price": 40,
+      "category": "clothing",
+      "imageUrl": "https://i.etsystatic.com/22388648/r/il/9e3f45/2195667858/il_fullxfull.2195667858_3asm.jpg",
+      "isInStock": false
+    },
+    {
+      "id": "17",
+      "name": "Women's Kurti Set",
+      "price": 50,
+      "category": "clothing",
+      "imageUrl": "https://i.pinimg.com/originals/87/ca/e2/87cae2a19fdf328ca07f972868618942.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "18",
+      "name": "Kid's Ethnic Wear",
+      "price": 30,
+      "category": "clothing",
+      "imageUrl": "http://www.okboss.co.in/assets/img/product/kids%20solid%20mehroon%20color%20festive%20ethnic%20wear%20dress.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "19",
+      "name": "Men's T-shirt",
+      "price": 15,
+      "category": "clothing",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EXsrnXZ8oBbTyvKaXioxtAHaJ4?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "20",
+      "name": "Women's Maxi Dress",
+      "price": 55,
+      "category": "clothing",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81Bt3JwfjeL.jpg",
+      "isInStock": false
+    },
+    {
+      "id": "21",
+      "name": "Kid's Shorts Set",
+      "price": 18,
+      "category": "clothing",
+      "imageUrl": "https://img.giglio.com/images/prodZoom/A70498.011_2.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "22",
+      "name": "Samsung 55\" 4K Smart TV",
+      "price": 499,
+      "category": "electronic appliances",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.AeWKoT5OiuZRMlGqG1NtnQHaE8?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "23",
+      "name": "LG 260L Double Door Fridge",
+      "price": 379,
+      "category": "electronic appliances",
+      "imageUrl": "https://m.media-amazon.com/images/I/61L8W7Ld03L._AC_SS450_.jpg",
+      "isInStock": false
+    },
+    {
+      "id": "24",
+      "name": "IFB Front Load Washing Machine",
+      "price": 320,
+      "category": "electronic appliances",
+      "imageUrl": "https://rukminim1.flixcart.com/image/1664/1664/washing-machine-new/w/u/h/ifb-senorita-aqua-vx-6-5-kg-original-imae4rxxwhsqntse.jpeg?q=90",
+      "isInStock": true
+    },
+    {
+      "id": "25",
+      "name": "Samsung 7kg Top Load Washer",
+      "price": 250,
+      "category": "electronic appliances",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.FluvvNzkE3AkoSsl3gY69wHaIN?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "26",
+      "name": "Whirlpool 240L Fridge",
+      "price": 340,
+      "category": "electronic appliances",
+      "imageUrl": "https://cdn.shopclues.com/images/detailed/73596/120641850_143444105511486027246_1496400494.png",
+      "isInStock": true
+    },
+    {
+      "id": "27",
+      "name": "Sony Bravia 50\" Smart TV",
+      "price": 550,
+      "category": "electronic appliances",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.mVF2CZeVjFxbLXvVnNGr_wHaE8?pid=Api&P=0&h=180",
+      "isInStock": false
+    },
+    {
+      "id": "28",
+      "name": "Panasonic 6.5kg Washer",
+      "price": 210,
+      "category": "electronic appliances",
+      "imageUrl": "https://5.imimg.com/data5/ANDROID/Default/2024/6/428372047/AG/LI/NS/795519/product-jpeg-1000x1000.jpg",
+      "isInStock": true
+    },
+    {
+      "id": "29",
+      "name": "Haier 190L Single Door Fridge",
+      "price": 215,
+      "category": "electronic appliances",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.rwLN9xmhnX-N4NRxv7oxmQHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "30",
+      "name": "Godrej 6kg Semi-Automatic Washer",
+      "price": 190,
+      "category": "electronic appliances",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.qn-sPwm7leIn5T89xz530wHaIN?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "31",
+      "name": "Microwave-safe Wall Clock",
+      "price": 25,
+      "category": "home decorations",
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.O2J8pG-KleskprUm_eEBJQHaHb?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "32",
+      "name": "Wooden Wall Shelf",
+      "price": 40,
+      "category": "home decorations",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Kg7mN2wdL.jpg",
+      "isInStock": false
+    },
+    {
+      "id": "33",
+      "name": "Artificial Plant Pot",
+      "price": 30,
+      "category": "home decorations",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.IafBoOred8gfm3xaPWHmzwHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "34",
+      "name": "LED Fairy Lights",
+      "price": 18,
+      "category": "home decorations",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Z2bvIOPo4ItcnBYhuN4JUQHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "35",
+      "name": "3D Wall Stickers",
+      "price": 22,
+      "category": "home decorations",
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.7dZfSyNTVcdiZgxiLObt1QHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "36",
+      "name": "Handcrafted Wall Mirror",
+      "price": 50,
+      "category": "home decorations",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.hAw6dKGEyJmCeHfajgVjyQHaHa?pid=Api&P=0&h=180",
+      "isInStock": false
+    },
+    {
+      "id": "37",
+      "name": "Wooden Photo Frame Set",
+      "price": 35,
+      "category": "home decorations",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.ArJqcx9MZd4WcU_nxCmV-QHaHD?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "38",
+      "name": "Canvas Painting Set",
+      "price": 28,
+      "category": "home decorations",
+      "imageUrl": "https://image.lampsplus.com/is/image/cropped/90Y81cropped.fpx?qlt=65&wid=1296&hei=1296&op_sharpen=1&fmt=jpeg",
+      "isInStock": true
+    },
+    {
+      "id": "39",
+      "name": "Decorative Cushions Pack",
+      "price": 24,
+      "category": "home decorations",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.3TxNu3lze4kCtY5TreKdlQHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "40",
+      "name": "Acrylic Wall Art",
+      "price": 45,
+      "category": "home decorations",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP._dEOBDcN_jQ86GrkNhicVgHaHa?pid=Api&P=0&h=180",
+      "isInStock": true
+    },
+    {
+      "id": "41",
+      "name": "Ceramic Vase Set",
+      "price": 38,
+      "category": "home decorations",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.Qb5wTdi3zOyjamrHxw9i_wHaHa?pid=Api&P=0&h=180",
+      "isInStock": false
+    },
+    {
+      "id": "42",
+      "name": "Dreamcatcher Wall Hanging",
+      "price": 20,
+      "category": "home decorations",
+      "imageUrl": "https://i.etsystatic.com/22438978/r/il/e8349f/3386674535/il_fullxfull.3386674535_qy45.jpg",
+      "isInStock": true
+    }
+]
+  
