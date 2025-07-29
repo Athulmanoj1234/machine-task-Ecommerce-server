@@ -91,8 +91,9 @@ app.get('/products/:id/related', (req: Request, res: Response) => {
 
     try {
         const relatedProducts = products.filter((product: ProductInfo) => product.category == productDoc.category);
+        const relatedResponseProducts = relatedProducts.slice(0, 4);
         res.status(200).json({
-            data: relatedProducts,
+            data: relatedResponseProducts,
             error: false,
             success: true,
         });
@@ -107,6 +108,7 @@ app.get('/products/:id/related', (req: Request, res: Response) => {
 
 app.get('/product/:id', (req: Request, res: Response) => {
     const id = req.params.id;
+    console.log("parmas id:", id);
 
     try {
         const productDoc = products.find((product: ProductInfo) => product?.id == id);
